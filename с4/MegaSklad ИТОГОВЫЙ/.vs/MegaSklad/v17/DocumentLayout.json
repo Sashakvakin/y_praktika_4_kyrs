@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IIDom\\Desktop\\MegaSklad \u0418\u0422\u041E\u0413\u041E\u0412\u042B\u0419\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79940BCE-486E-4ABA-82F7-EBC7534A161E}|MegaSklad.csproj|c:\\users\\iidom\\desktop\\megasklad \u0438\u0442\u043E\u0433\u043E\u0432\u044B\u0439\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79940BCE-486E-4ABA-82F7-EBC7534A161E}|MegaSklad.csproj|solutionrelative:loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79940BCE-486E-4ABA-82F7-EBC7534A161E}|MegaSklad.csproj|c:\\users\\iidom\\desktop\\megasklad \u0438\u0442\u043E\u0433\u043E\u0432\u044B\u0439\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79940BCE-486E-4ABA-82F7-EBC7534A161E}|MegaSklad.csproj|solutionrelative:loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79940BCE-486E-4ABA-82F7-EBC7534A161E}|MegaSklad.csproj|c:\\users\\iidom\\desktop\\megasklad \u0438\u0442\u043E\u0433\u043E\u0432\u044B\u0439\\buhgaltermainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79940BCE-486E-4ABA-82F7-EBC7534A161E}|MegaSklad.csproj|solutionrelative:buhgaltermainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79940BCE-486E-4ABA-82F7-EBC7534A161E}|MegaSklad.csproj|c:\\users\\iidom\\desktop\\megasklad \u0438\u0442\u043E\u0433\u043E\u0432\u044B\u0439\\managermainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79940BCE-486E-4ABA-82F7-EBC7534A161E}|MegaSklad.csproj|solutionrelative:managermainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IIDom\\Desktop\\MegaSklad \u0418\u0422\u041E\u0413\u041E\u0412\u042B\u0419\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\IIDom\\Desktop\\MegaSklad \u0418\u0422\u041E\u0413\u041E\u0412\u042B\u0419\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:50:08.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuhgalterMainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\IIDom\\Desktop\\MegaSklad \u0418\u0422\u041E\u0413\u041E\u0412\u042B\u0419\\BuhgalterMainWindow.xaml",
+              "RelativeDocumentMoniker": "BuhgalterMainWindow.xaml",
+              "ToolTip": "C:\\Users\\IIDom\\Desktop\\MegaSklad \u0418\u0422\u041E\u0413\u041E\u0412\u042B\u0419\\BuhgalterMainWindow.xaml",
+              "RelativeToolTip": "BuhgalterMainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T10:39:52.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerMainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\IIDom\\Desktop\\MegaSklad \u0418\u0422\u041E\u0413\u041E\u0412\u042B\u0419\\ManagerMainWindow.xaml",
+              "RelativeDocumentMoniker": "ManagerMainWindow.xaml",
+              "ToolTip": "C:\\Users\\IIDom\\Desktop\\MegaSklad \u0418\u0422\u041E\u0413\u041E\u0412\u042B\u0419\\ManagerMainWindow.xaml",
+              "RelativeToolTip": "ManagerMainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T10:17:01.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\IIDom\\Desktop\\MegaSklad \u0418\u0422\u041E\u0413\u041E\u0412\u042B\u0419\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\IIDom\\Desktop\\MegaSklad \u0418\u0422\u041E\u0413\u041E\u0412\u042B\u0419\\LoginWindow.xaml",
+              "RelativeToolTip": "LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T09:49:35.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

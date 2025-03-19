@@ -1,0 +1,25 @@
+﻿<Window x:Class="MegaSklad.EditClientWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Редактирование клиента" Height="380" Width="400" WindowStartupLocation="CenterScreen" Icon="/icon.png">
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="Название клиента:"/>
+            <TextBox x:Name="НазваниеTextBox" Text="{Binding название_клиента}" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Контактное лицо:"/>
+            <TextBox x:Name="КонтактноеЛицоTextBox" Text="{Binding контактное_лицо}" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Телефон клиента:"/>
+            <TextBox x:Name="ТелефонTextBox" Text="{Binding телефон_клиента}" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Email клиента:"/>
+            <TextBox x:Name="EmailTextBox" Text="{Binding email_клиента}" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Адрес клиента:"/>
+            <TextBox x:Name="АдресTextBox" Text="{Binding адрес_клиента}" Margin="0,0,0,20"/>
+
+            <Button Content="Сохранить" Click="SaveButton_Click" HorizontalAlignment="Center" Width="110"/>
+        </StackPanel>
+    </Grid>
+</Window>

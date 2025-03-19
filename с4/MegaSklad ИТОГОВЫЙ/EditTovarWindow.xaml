@@ -1,0 +1,34 @@
+﻿<Window x:Class="MegaSklad.EditTovarWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Редактирование товара" Height="560" Width="400" WindowStartupLocation="CenterScreen" Icon="/icon.png">
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="Название товара:"/>
+            <TextBox x:Name="НазваниеTextBox" Text="{Binding название_товара}" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Артикул товара:"/>
+            <TextBox x:Name="АртикулTextBox" Text="{Binding артикул_товара}" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Штрихкод товара:"/>
+            <TextBox x:Name="ШтрихкодTextBox" Text="{Binding штрихкод_товара}" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Категория:"/>
+            <ComboBox x:Name="КатегорияComboBox" DisplayMemberPath="название_категории" SelectedValuePath="id" SelectedValue="{Binding id_категории}" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Единица измерения:"/>
+            <TextBox x:Name="ЕдиницаИзмеренияTextBox" Text="{Binding единица_измерения}" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Цена:"/>
+            <TextBox x:Name="ЦенаTextBox" Text="{Binding цена}" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Минимальный остаток:"/>
+            <TextBox x:Name="МинимальныйОстатокTextBox" Text="{Binding минимальный_остаток}" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Описание:"/>
+            <TextBox x:Name="ОписаниеTextBox" Text="{Binding описание}" Margin="0,0,0,20" Height="50"/>
+
+            <Button Content="Сохранить" Click="SaveButton_Click" HorizontalAlignment="Center" Width="110"/>
+        </StackPanel>
+    </Grid>
+</Window>

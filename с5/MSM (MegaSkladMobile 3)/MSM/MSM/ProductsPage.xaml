@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MSM.ProductsPage"
+             Title="Товары"
+             BackgroundColor="#F5F5F5">
+    <ContentPage.Content>
+        <Grid>
+            <StackLayout>
+                <Label Text="Список товаров"
+                       FontSize="24"
+                       FontAttributes="Bold"
+                       TextColor="#333333"
+                       HorizontalOptions="Center"
+                       Margin="0,20,0,10"/>
+
+                <Picker x:Name="WarehousePicker"
+                        Title="Выберите склад"
+                        SelectedIndexChanged="WarehousePicker_SelectedIndexChanged"
+                        Margin="10,0,10,10"/>
+
+                <CollectionView x:Name="ProductsCollectionView"
+                                ItemsSource="{Binding .}"
+                                ItemSizingStrategy="MeasureAllItems"
+                                Margin="10">
+                    <CollectionView.ItemsLayout>
+                        <GridItemsLayout Orientation="Vertical" VerticalItemSpacing="10"/>
+                    </CollectionView.ItemsLayout>
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Frame HasShadow="True"
+                                   CornerRadius="10"
+                                   Padding="15"
+                                   BackgroundColor="White">
+                                <Frame.GestureRecognizers>
+                                    <TapGestureRecognizer Command="{Binding BindingContext.ItemTappedCommand, Source={x:Reference ProductsCollectionView}}"
+                                                          CommandParameter="{Binding .}" />
+                                </Frame.GestureRecognizers>
+                                <VisualStateManager.VisualStateGroups>
+                                    <VisualStateGroup Name="CommonStates">
+                                        <VisualState Name="Normal">
+                                            <VisualState.Setters>
+                                                <Setter Property="Opacity" Value="1" />
+                                            </VisualState.Setters>
+                                        </VisualState>
+                                        <VisualState Name="Disabled">
+                                            <VisualState.Setters>
+                                                <Setter Property="Opacity" Value="0.5" />
+                                            </VisualState.Setters>
+                                        </VisualState>
+                                    </VisualStateGroup>
+                                </VisualStateManager.VisualStateGroups>
+                                <StackLayout Orientation="Horizontal" Spacing="10">
+                                    <StackLayout VerticalOptions="Center">
+                                        <Label Text="{Binding название_товара}"
+                                           FontSize="18"
+                                           FontAttributes="Bold"
+                                           TextColor="#333333"/>
+                                        <Label Text="{Binding артикул_товара, StringFormat='Артикул: {0}'}"
+                                           FontSize="14"
+                                           TextColor="#555555"/>
+                                        <Label Text="{Binding цена, StringFormat='Цена: {0:C}'}"
+                                           FontSize="14"
+                                           TextColor="#3F51B5"/>
+                                        <Label Text="{Binding минимальный_остаток, StringFormat='Мин. остаток: {0}'}"
+                                           FontSize="12"
+                                           TextColor="#F57C00"/>
+                                        <Label Text="{Binding количество, StringFormat='Количество: {0}'}"
+                                           FontSize="12"
+                                           TextColor="#4CAF50"/>
+                                    </StackLayout>
+                                    <Image Source="{Binding qrCodeUrl}"
+                                       HeightRequest="100"
+                                       WidthRequest="100"
+                                       VerticalOptions="Center"
+                                       HorizontalOptions="EndAndExpand"/>
+                                </StackLayout>
+                            </Frame>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </StackLayout>
+
+            <ContentView x:Name="ModalContentView"
+                         IsVisible="False"
+                         BackgroundColor="#80000000"
+                         HorizontalOptions="Fill"
+                         VerticalOptions="Fill">
+                <RelativeLayout HorizontalOptions="Center" VerticalOptions="Center">
+                    <Frame CornerRadius="15" Padding="0" IsClippedToBounds="True" HasShadow="True">
+                        <StackLayout x:Name="ModalLayout"
+                                     BackgroundColor="White"
+                                     Padding="20"
+                                     Spacing="15"
+                                     WidthRequest="320"
+                                     HeightRequest="380">
+
+                            <Label x:Name="ModalTitleLabel"
+                                   FontSize="20"
+                                   FontAttributes="Bold"
+                                   TextColor="#333333"
+                                   HorizontalOptions="Center"/>
+
+                            <Image x:Name="ModalImage"
+                                   HeightRequest="220"
+                                   WidthRequest="220"
+                                   HorizontalOptions="Center"
+                                   VerticalOptions="CenterAndExpand"/>
+
+
+                            <Button Text="Закрыть"
+                                    Clicked="OnCloseModalClicked"
+                                    HorizontalOptions="FillAndExpand"
+                                    VerticalOptions="End"
+                                BackgroundColor="#D32F2F"
+                                    TextColor="White"
+                                    CornerRadius="8"
+                                    FontSize="16"
+                                    FontAttributes="Bold"
+                                    Padding="10"
+                                    Margin="0,10,0,15"/>
+
+                        </StackLayout>
+                    </Frame>
+                </RelativeLayout>
+            </ContentView>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

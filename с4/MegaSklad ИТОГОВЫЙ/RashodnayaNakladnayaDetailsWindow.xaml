@@ -1,0 +1,14 @@
+﻿<Window x:Class="MegaSklad.RashodnayaNakladnayaDetailsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Детали расходной накладной" Height="400" Width="600" WindowStartupLocation="CenterScreen" Icon="/icon.png">
+    <Grid>
+        <DataGrid x:Name="TovaryDataGrid" AutoGenerateColumns="False" IsReadOnly="True" Margin="10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Название товара" Binding="{Binding название_товара}"/>
+                <DataGridTextColumn Header="Количество" Binding="{Binding количество}"/>
+                <DataGridTextColumn Header="Цена" Binding="{Binding цена}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

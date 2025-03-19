@@ -1,0 +1,60 @@
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\bin\Debug\netstandard2.0\MSM.deps.json
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\bin\Debug\netstandard2.0\MSM.dll
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\bin\Debug\netstandard2.0\ref\MSM.dll
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\bin\Debug\netstandard2.0\MSM.pdb
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\obj\Debug\netstandard2.0\MSM.csproj.AssemblyReference.cache
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\obj\Debug\netstandard2.0\MSM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\obj\Debug\netstandard2.0\MSM.AssemblyInfoInputs.cache
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\obj\Debug\netstandard2.0\MSM.AssemblyInfo.cs
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\obj\Debug\netstandard2.0\MSM.csproj.CoreCompileInputs.cache
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\obj\Debug\netstandard2.0\MSM.dll
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\obj\Debug\netstandard2.0\refint\MSM.dll
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\obj\Debug\netstandard2.0\MSM.pdb
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\obj\Debug\netstandard2.0\ScanPage.xaml.g.cs
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\obj\Debug\netstandard2.0\ProductsPage.xaml.g.cs
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+C:\Users\IIDom\source\repos\MSM\MSM\MSM\obj\Debug\netstandard2.0\WarehousesPage.xaml.g.cs
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\obj\Debug\netstandard2.0\MSM.csproj.AssemblyReference.cache
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\obj\Debug\netstandard2.0\MSM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\obj\Debug\netstandard2.0\ProductsPage.xaml.g.cs
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\obj\Debug\netstandard2.0\ScanPage.xaml.g.cs
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\obj\Debug\netstandard2.0\WarehousesPage.xaml.g.cs
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\obj\Debug\netstandard2.0\MSM.AssemblyInfoInputs.cache
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\obj\Debug\netstandard2.0\MSM.AssemblyInfo.cs
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\obj\Debug\netstandard2.0\MSM.csproj.CoreCompileInputs.cache
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\bin\Debug\netstandard2.0\MSM.deps.json
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\bin\Debug\netstandard2.0\MSM.dll
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\bin\Debug\netstandard2.0\ref\MSM.dll
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\bin\Debug\netstandard2.0\MSM.pdb
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\obj\Debug\netstandard2.0\MSM.dll
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\obj\Debug\netstandard2.0\refint\MSM.dll
+C:\Users\IIDom\Desktop\MSM\MSM\MSM\obj\Debug\netstandard2.0\MSM.pdb
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\bin\Debug\netstandard2.0\MSM.deps.json
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\bin\Debug\netstandard2.0\MSM.dll
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\bin\Debug\netstandard2.0\ref\MSM.dll
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\bin\Debug\netstandard2.0\MSM.pdb
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\obj\Debug\netstandard2.0\MSM.csproj.AssemblyReference.cache
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\obj\Debug\netstandard2.0\MSM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\obj\Debug\netstandard2.0\ProductsPage.xaml.g.cs
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\obj\Debug\netstandard2.0\ScanPage.xaml.g.cs
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\obj\Debug\netstandard2.0\WarehousesPage.xaml.g.cs
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\obj\Debug\netstandard2.0\MSM.AssemblyInfoInputs.cache
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\obj\Debug\netstandard2.0\MSM.AssemblyInfo.cs
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\obj\Debug\netstandard2.0\MSM.csproj.CoreCompileInputs.cache
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\obj\Debug\netstandard2.0\MSM.dll
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\obj\Debug\netstandard2.0\refint\MSM.dll
+C:\Users\IIDom\Desktop\MSM (MegaSkladMobile 2)\MSM\MSM\obj\Debug\netstandard2.0\MSM.pdb

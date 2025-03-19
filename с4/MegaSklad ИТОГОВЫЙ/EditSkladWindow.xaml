@@ -1,0 +1,19 @@
+﻿<Window x:Class="MegaSklad.EditSkladWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Редактирование склада" Height="280" Width="400" WindowStartupLocation="CenterScreen" Icon="/icon.png">
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="Название склада:"/>
+            <TextBox x:Name="НазваниеTextBox" Text="{Binding название_склада}" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Адрес склада:"/>
+            <TextBox x:Name="АдресTextBox" Text="{Binding адрес_склада}" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Тип склада:"/>
+            <TextBox x:Name="ТипTextBox" Text="{Binding тип_склада}" Margin="0,0,0,20"/>
+
+            <Button Content="Сохранить" Click="SaveButton_Click" HorizontalAlignment="Center" Width="110"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,148 @@
+﻿<Window x:Class="MegaSklad.BuhgalterMainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MegaSklad"
+        mc:Ignorable="d"
+        Title="MegaSklad: Бухгалтер" Height="600" Width="1000" Icon="/icon.png" WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <local:MultiImageConverterProfile x:Key="MultiImageConverterProfile" />
+    </Window.Resources>
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="280" MinWidth="120"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Background="Gainsboro">
+            <Button x:Name="profileButton" Content="Профиль" Margin="-1 5 -1 3" Click="MenuButton_Click" Tag="Профиль"/>
+            <Button Content="Отчеты по складам" Margin="-1 5 -1 3" Click="MenuButton_Click" Tag="ОтчетыПоСкладам"/>
+            <Button Content="Отчет по оборотам" Margin="-1 0 -1 3" Click="MenuButton_Click" Tag="ОтчетПоОборотам"/>
+            <Button Content="Отчет по остаткам" Margin="-1 0 -1 3" Click="MenuButton_Click" Tag="ОтчетПоОстаткам"/>
+            <Button Content="Инвентаризация" Margin="-1 0 -1 3" Click="MenuButton_Click" Tag="Инвентаризация"/>
+        </StackPanel>
+
+        <Grid Grid.Column="1" Background="White">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel x:Name="ProfilePanel" Visibility="Collapsed" Grid.Row="0" Margin="10">
+                <TextBlock Text="Профиль Бухгалтера" FontSize="18" FontWeight="Bold" Margin="0,0,0,10"/>
+                <Image x:Name="ProfileImage" Width="100" Height="100" Stretch="UniformToFill" Margin="0,0,0,10">
+                    <Image.Source>
+                        <MultiBinding Converter="{StaticResource MultiImageConverterProfile}" >
+                            <Binding Path="UserProfile.фото"/>
+                            <Binding Source="photoprofil"/>
+                            <Binding Source="user.png"/>
+                        </MultiBinding>
+                    </Image.Source>
+                </Image>
+                <TextBlock x:Name="NameTextBlock" Text="Имя:" Margin="0,0,0,5"/>
+                <TextBlock x:Name="EmailTextBlock" Text="Email:" Margin="0,0,0,5"/>
+                <TextBlock x:Name="PhoneTextBlock" Text="Телефон:" Margin="0,0,0,5"/>
+                <TextBlock x:Name="RoleTextBlock" Text="Роль:" Margin="0,0,0,5"/>
+                <Button Content="Редактировать профиль" Click="EditProfileButton_Click" HorizontalAlignment="Center" Margin="10"/>
+                <Button Content="Выйти из аккаунта" Click="LogoutButton_Click" HorizontalAlignment="Center" Margin="10" Background="#FFF53D3D" Foreground="White"/>
+            </StackPanel>
+
+            <!-- Форма для отчетов по складам -->
+            <StackPanel x:Name="OtchetyPoSkladamPanel" Grid.Row="0" Margin="10" Visibility="Collapsed">
+                <TextBlock Text="Отчет по складам" FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
+
+                <DataGrid x:Name="SkladyDataGrid" AutoGenerateColumns="False" IsReadOnly="True" Grid.Row="1" Background="White" Margin="10">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Тип склада" Binding="{Binding тип_склада}"/>
+                        <DataGridTextColumn Header="Количество" Binding="{Binding количество}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+
+            </StackPanel>
+
+            <!-- Форма для отчетов по оборотам -->
+            <StackPanel x:Name="OtchetPoOborotamPanel" Grid.Row="0" Margin="10" Visibility="Collapsed">
+                <TextBlock Text="Отчет по оборотам" FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
+
+                <DataGrid x:Name="ContentDataGrid" AutoGenerateColumns="False" IsReadOnly="True" Margin="10" Height="450">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Название товара" Binding="{Binding название_товара}"/>
+                        <DataGridTextColumn Header="Приход" Binding="{Binding приход}"/>
+                        <DataGridTextColumn Header="Расход" Binding="{Binding расход}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </StackPanel>
+
+            <!-- Форма для отчетов по остаткам -->
+            <StackPanel x:Name="OtchetPoOstatkamPanel" Grid.Row="0" Margin="10" Visibility="Collapsed">
+                <TextBlock Text="Отчет по остаткам" FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Grid.Row="0" Grid.Column="0" Text="Склад:" Margin="5"/>
+                    <ComboBox x:Name="SkladOstatkiComboBox" Grid.Row="0" Grid.Column="1" Margin="5" Width="150" SelectionChanged="SkladOstatkiComboBox_SelectionChanged"/>
+
+                </Grid>
+
+                <DataGrid x:Name="OstatkiDataGrid" AutoGenerateColumns="False" IsReadOnly="True" Margin="10" Height="450">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Название товара" Binding="{Binding название_товара}"/>
+                        <DataGridTextColumn Header="Количество" Binding="{Binding количество}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </StackPanel>
+            <StackPanel x:Name="InventarizatsiyaPanel" Grid.Row="0" Margin="10" Visibility="Collapsed">
+                <TextBlock Text="Проведение инвентаризации" FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Grid.Row="0" Grid.Column="0" Text="Склад:" Margin="5"/>
+                    <ComboBox x:Name="InventSkladComboBox" Grid.Row="0" Grid.Column="1" Margin="5"/>
+
+                    <TextBlock Grid.Row="1" Grid.Column="0" Text="Дата начала инвентаризации:" Margin="5"/>
+                    <DatePicker x:Name="InventDataNachalaDatePicker" Grid.Row="1" Grid.Column="1" Margin="5"/>
+
+                    <TextBlock Grid.Row="2" Grid.Column="0" Text="Дата окончания инвентаризации:" Margin="5"/>
+                    <DatePicker x:Name="InventDataOkonchaniyaDatePicker" Grid.Row="2" Grid.Column="1" Margin="5"/>
+                </Grid>
+
+                <Button Content="Сформировать" HorizontalAlignment="Center" Margin="10" Click="FormInventarizatsiyaButton_Click"/>
+
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <DataGrid x:Name="TovaryInventDataGrid" AutoGenerateColumns="False" IsReadOnly="False" Margin="10" MinHeight="260" MaxHeight="200">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Название товара" Binding="{Binding название_товара}" IsReadOnly="True" Width="250" />
+                            <DataGridTextColumn Header="Ожидаемое количество" Binding="{Binding ожидаемое_количество}" IsReadOnly="True" Width="Auto"/>
+                            <DataGridTextColumn Header="Фактическое количество" Binding="{Binding фактическое_количество, Mode=TwoWay}" Width="Auto"/>
+                            <DataGridTextColumn Header="Расхождение" Binding="{Binding расхождение, Mode=TwoWay}" IsReadOnly="True" Width="Auto"/>
+                            <DataGridTextColumn Header="Примечания" Binding="{Binding примечания, Mode=TwoWay}" Width="*"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </ScrollViewer>
+
+                <Button Content="Сохранить отчет по инвентаризации" HorizontalAlignment="Center" Margin="10" Click="SaveInventarizatsiyaButton_Click"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

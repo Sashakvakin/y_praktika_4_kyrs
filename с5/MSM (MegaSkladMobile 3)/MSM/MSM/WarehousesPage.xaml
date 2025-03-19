@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MSM.WarehousesPage"
+             Title="Склады"
+             BackgroundColor="#F5F5F5">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Список складов"
+                   FontSize="24"
+                   FontAttributes="Bold"
+                   TextColor="#333333"
+                   HorizontalOptions="Center"
+                   Margin="0,20,0,10"/>
+
+            <CollectionView x:Name="WarehousesCollectionView" ItemsSource="{Binding .}" Margin="10">
+                <CollectionView.ItemsLayout>
+                    <GridItemsLayout Orientation="Vertical" VerticalItemSpacing="10"/>
+                </CollectionView.ItemsLayout>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame HasShadow="True"
+                               CornerRadius="10"
+                               Padding="15"
+                               Margin="0,0,0,0"
+                            BackgroundColor="White">
+                            <StackLayout Spacing="5">
+                                <Label Text="{Binding название_склада}"
+                                       FontSize="18"
+                                       FontAttributes="Bold"
+                                       TextColor="#333333"/>
+                                <Label Text="{Binding адрес_склада}"
+                                       FontSize="14"
+                                       TextColor="#555555"/>
+                                <Label Text="{Binding тип_склада}"
+                                       FontSize="14"
+                                       TextColor="#777777"/>
+                            </StackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,27 @@
+﻿<Window x:Class="MegaSklad.EditUserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Редактирование пользователя" Height="320" Width="400" WindowStartupLocation="CenterScreen" Icon="/icon.png">
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="Имя пользователя:"/>
+            <TextBox x:Name="UsernameTextBox" Text="{Binding имя_пользователя}" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Email:"/>
+            <TextBox x:Name="EmailTextBox" Text="{Binding email}" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Телефон:"/>
+            <TextBox x:Name="PhoneTextBox" Text="{Binding телефон}" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Роль:"/>
+            <ComboBox x:Name="RoleComboBox" Margin="0,0,0,10" SelectedIndex="0">
+                <ComboBoxItem Content="администратор" />
+                <ComboBoxItem Content="кладовщик" />
+                <ComboBoxItem Content="менеджер по продажам" />
+                <ComboBoxItem Content="бухгалтер" />
+            </ComboBox>
+
+            <Button Content="Сохранить" Click="SaveButton_Click" HorizontalAlignment="Center" Width="110"/>
+        </StackPanel>
+    </Grid>
+</Window>

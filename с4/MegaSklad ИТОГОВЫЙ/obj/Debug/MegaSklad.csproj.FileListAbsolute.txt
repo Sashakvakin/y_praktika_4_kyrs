@@ -1,0 +1,1154 @@
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\MegaSklad.exe.config
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\MegaSklad.exe
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\MegaSklad.pdb
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\MimeMapping.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Supabase.Core.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Supabase.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Supabase.Functions.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Supabase.Gotrue.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Supabase.Postgrest.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Supabase.Realtime.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Supabase.Storage.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.Buffers.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.Memory.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.Reactive.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.Text.Json.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.Threading.Channels.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.ValueTuple.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Websocket.Client.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\MimeMapping.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Supabase.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Supabase.Core.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Supabase.Functions.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Supabase.Gotrue.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Supabase.Postgrest.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Supabase.Realtime.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Supabase.Storage.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.Buffers.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.Memory.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.Reactive.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.Text.Json.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.Threading.Channels.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\System.ValueTuple.xml
+C:\Users\Student\Desktop\MegaSklad\bin\Debug\Websocket.Client.xml
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\MegaSklad.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\MegaSklad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\MegaSklad.exe.config
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\LoginWindow.baml
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\RegisterWindow.baml
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\AdminMainWindow.g.cs
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\BuhgalterMainWindow.g.cs
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\KladovshikMainWindow.g.cs
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\LoginWindow.g.cs
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\ManagerMainWindow.g.cs
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\RegisterWindow.g.cs
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\MegaSklad_MarkupCompile.cache
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\MegaSklad_MarkupCompile.lref
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\AdminMainWindow.baml
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\BuhgalterMainWindow.baml
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\KladovshikMainWindow.baml
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\ManagerMainWindow.baml
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\MegaSklad.g.resources
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\MegaSklad.Properties.Resources.resources
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\MegaSklad.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\MegaSklad.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\MegaSklad.csproj.CopyComplete
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\MegaSklad.exe
+C:\Users\Student\Desktop\MegaSklad\obj\Debug\MegaSklad.pdb
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\MegaSklad.exe.config
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\MegaSklad.exe
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\MegaSklad.pdb
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\MimeMapping.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Newtonsoft.Json.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Supabase.Core.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Supabase.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Supabase.Functions.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Supabase.Gotrue.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Supabase.Postgrest.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Supabase.Realtime.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Supabase.Storage.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.Buffers.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.Memory.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.Numerics.Vectors.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.Reactive.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.Text.Encodings.Web.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.Text.Json.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.Threading.Channels.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.ValueTuple.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Websocket.Client.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Microsoft.IdentityModel.Logging.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\MimeMapping.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Newtonsoft.Json.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Supabase.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Supabase.Core.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Supabase.Functions.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Supabase.Gotrue.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Supabase.Postgrest.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Supabase.Realtime.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Supabase.Storage.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.Buffers.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.Memory.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.Numerics.Vectors.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.Reactive.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.Text.Encodings.Web.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.Text.Json.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.Threading.Channels.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\System.ValueTuple.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\bin\Debug\Websocket.Client.xml
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\MegaSklad.csproj.AssemblyReference.cache
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\MegaSklad.csproj.SuggestedBindingRedirects.cache
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\MegaSklad.exe.config
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\LoginWindow.baml
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\RegisterWindow.baml
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\AdminMainWindow.g.cs
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\BuhgalterMainWindow.g.cs
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\KladovshikMainWindow.g.cs
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\LoginWindow.g.cs
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\MainWindow.g.cs
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\ManagerMainWindow.g.cs
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\RegisterWindow.g.cs
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\App.g.cs
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\MegaSklad_MarkupCompile.cache
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\MegaSklad_MarkupCompile.lref
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\AdminMainWindow.baml
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\BuhgalterMainWindow.baml
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\KladovshikMainWindow.baml
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\MainWindow.baml
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\ManagerMainWindow.baml
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\MegaSklad.g.resources
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\MegaSklad.Properties.Resources.resources
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\MegaSklad.csproj.GenerateResource.cache
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\MegaSklad.csproj.CoreCompileInputs.cache
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\MegaSklad.csproj.Up2Date
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\MegaSklad.exe
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\MegaSklad.pdb
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\EditSkladWindow.baml
+F:\учебная практика 4 курс\День 4\MegaSklad\obj\Debug\EditSkladWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\MegaSklad.exe.config
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\MegaSklad.exe
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\MegaSklad.pdb
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\MimeMapping.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Supabase.Core.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Supabase.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Supabase.Functions.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Supabase.Gotrue.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Supabase.Postgrest.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Supabase.Realtime.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Supabase.Storage.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.Buffers.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.Memory.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.Reactive.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.Text.Json.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.Threading.Channels.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.ValueTuple.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Websocket.Client.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\MimeMapping.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Supabase.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Supabase.Core.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Supabase.Functions.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Supabase.Gotrue.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Supabase.Postgrest.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Supabase.Realtime.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Supabase.Storage.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.Buffers.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.Memory.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.Reactive.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.Text.Json.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.Threading.Channels.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\System.ValueTuple.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\bin\Debug\Websocket.Client.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\MegaSklad.csproj.AssemblyReference.cache
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\MegaSklad.csproj.SuggestedBindingRedirects.cache
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\MegaSklad.exe.config
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\EditSkladWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\LoginWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\RegisterWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\AdminMainWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\BuhgalterMainWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\EditSkladWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\KladovshikMainWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\LoginWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\MainWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\ManagerMainWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\RegisterWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\App.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\MegaSklad_MarkupCompile.cache
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\MegaSklad_MarkupCompile.lref
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\AdminMainWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\BuhgalterMainWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\KladovshikMainWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\MainWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\ManagerMainWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\MegaSklad.g.resources
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\MegaSklad.Properties.Resources.resources
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\MegaSklad.csproj.GenerateResource.cache
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\MegaSklad.csproj.CoreCompileInputs.cache
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\MegaSklad.csproj.Up2Date
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\MegaSklad.exe
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\MegaSklad.pdb
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\EditTovarWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\EditTovarWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\EditClientWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\EditClientWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\EditPostavshikWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 6-7\MegaSklad\obj\Debug\EditPostavshikWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MegaSklad.exe.config
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MegaSklad.exe
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MegaSklad.pdb
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MaterialDesignColors.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MimeMapping.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Core.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Functions.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Gotrue.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Postgrest.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Realtime.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Storage.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Buffers.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Memory.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Reactive.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Text.Json.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Threading.Channels.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.ValueTuple.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Websocket.Client.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MaterialDesignColors.pdb
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MimeMapping.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Core.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Functions.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Gotrue.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Postgrest.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Realtime.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Storage.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Buffers.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Memory.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Reactive.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Text.Json.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Threading.Channels.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.ValueTuple.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Websocket.Client.xml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad.csproj.AssemblyReference.cache
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\EditClientWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\EditPostavshikWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\EditSkladWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\EditTovarWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\LoginWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\RegisterWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\AdminMainWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\BuhgalterMainWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\EditClientWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\EditPostavshikWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\EditSkladWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\EditTovarWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\KladovshikMainWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\LoginWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MainWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\ManagerMainWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\RegisterWindow.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\App.g.cs
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad_MarkupCompile.cache
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad_MarkupCompile.lref
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\App.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\AdminMainWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\BuhgalterMainWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\KladovshikMainWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MainWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\ManagerMainWindow.baml
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad.g.resources
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad.Properties.Resources.resources
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad.csproj.GenerateResource.cache
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad.csproj.CoreCompileInputs.cache
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad.csproj.Up2Date
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad.exe
+C:\Users\IIDom\Desktop\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad.pdb
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MegaSklad.exe.config
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MegaSklad.exe
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MegaSklad.pdb
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MaterialDesignColors.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MimeMapping.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Newtonsoft.Json.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Core.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Functions.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Gotrue.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Postgrest.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Realtime.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Storage.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Buffers.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Memory.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Numerics.Vectors.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Reactive.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Text.Encodings.Web.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Text.Json.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Threading.Channels.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.ValueTuple.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Websocket.Client.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MaterialDesignColors.pdb
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.Logging.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\MimeMapping.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Newtonsoft.Json.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Core.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Functions.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Gotrue.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Postgrest.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Realtime.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Supabase.Storage.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Buffers.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Memory.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Numerics.Vectors.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Reactive.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Text.Encodings.Web.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Text.Json.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Threading.Channels.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\System.ValueTuple.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\bin\Debug\Websocket.Client.xml
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad.csproj.AssemblyReference.cache
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\EditClientWindow.baml
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\EditPostavshikWindow.baml
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\EditSkladWindow.baml
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\EditTovarWindow.baml
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\LoginWindow.baml
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\RegisterWindow.baml
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\AdminMainWindow.g.cs
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\BuhgalterMainWindow.g.cs
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\EditClientWindow.g.cs
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\EditPostavshikWindow.g.cs
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\EditSkladWindow.g.cs
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\EditTovarWindow.g.cs
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\KladovshikMainWindow.g.cs
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\LoginWindow.g.cs
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MainWindow.g.cs
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\ManagerMainWindow.g.cs
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\RegisterWindow.g.cs
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\App.g.cs
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad_MarkupCompile.cache
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad_MarkupCompile.lref
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\App.baml
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\AdminMainWindow.baml
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\BuhgalterMainWindow.baml
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\KladovshikMainWindow.baml
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MainWindow.baml
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\ManagerMainWindow.baml
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad.g.resources
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad.Properties.Resources.resources
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad.csproj.GenerateResource.cache
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad.csproj.CoreCompileInputs.cache
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad.csproj.Up2Date
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad.exe
+F:\учебная практика 4 курс\День 8\MegaSklad\obj\Debug\MegaSklad.pdb
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\MegaSklad.exe.config
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\MegaSklad.exe
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\MegaSklad.pdb
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\MaterialDesignColors.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\MimeMapping.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Supabase.Core.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Supabase.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Supabase.Functions.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Supabase.Gotrue.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Supabase.Postgrest.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Supabase.Realtime.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Supabase.Storage.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.Buffers.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.Memory.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.Reactive.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.Text.Json.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.Threading.Channels.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.ValueTuple.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Websocket.Client.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\MimeMapping.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Supabase.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Supabase.Core.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Supabase.Functions.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Supabase.Gotrue.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Supabase.Postgrest.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Supabase.Realtime.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Supabase.Storage.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.Buffers.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.Memory.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.Reactive.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.Text.Json.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.Threading.Channels.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\System.ValueTuple.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\bin\Debug\Websocket.Client.xml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\MegaSklad.csproj.AssemblyReference.cache
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\AddTovarToNakladnayaWindow.baml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\EditClientWindow.baml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\EditPostavshikWindow.baml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\EditSkladWindow.baml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\EditTovarWindow.baml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\LoginWindow.baml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\RegisterWindow.baml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\AddTovarToNakladnayaWindow.g.cs
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\AdminMainWindow.g.cs
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\BuhgalterMainWindow.g.cs
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\EditClientWindow.g.cs
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\EditPostavshikWindow.g.cs
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\EditSkladWindow.g.cs
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\EditTovarWindow.g.cs
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\KladovshikMainWindow.g.cs
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\LoginWindow.g.cs
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\MainWindow.g.cs
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\ManagerMainWindow.g.cs
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\RegisterWindow.g.cs
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\App.g.cs
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\MegaSklad_MarkupCompile.cache
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\MegaSklad_MarkupCompile.lref
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\App.baml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\AdminMainWindow.baml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\BuhgalterMainWindow.baml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\KladovshikMainWindow.baml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\MainWindow.baml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\ManagerMainWindow.baml
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\MegaSklad.g.resources
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\MegaSklad.Properties.Resources.resources
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\MegaSklad.csproj.GenerateResource.cache
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\MegaSklad.csproj.CoreCompileInputs.cache
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\MegaSklad.csproj.CopyComplete
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\MegaSklad.exe
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\MegaSklad.pdb
+C:\Users\Kab19-08\Desktop\День 8\MegaSklad\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\MegaSklad.csproj.AssemblyReference.cache
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\AddTovarToNakladnayaWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\AddTovarToRashodnayaNakladnayaWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\EditClientWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\EditPostavshikWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\EditSkladWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\EditTovarWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\LoginWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\RegisterWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\AddTovarToNakladnayaWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\AddTovarToRashodnayaNakladnayaWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\AdminMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\BuhgalterMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\EditClientWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\EditPostavshikWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\EditSkladWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\EditTovarWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\KladovshikMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\LoginWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\MainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\ManagerMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\RegisterWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\App.g.cs
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\MegaSklad_MarkupCompile.cache
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\MegaSklad_MarkupCompile.lref
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\MegaSklad.exe.config
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\MegaSklad.exe
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\MegaSklad.pdb
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\itextsharp.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\MaterialDesignColors.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\MimeMapping.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\QRCoder.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Supabase.Core.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Supabase.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Supabase.Functions.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Supabase.Gotrue.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Supabase.Postgrest.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Supabase.Realtime.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Supabase.Storage.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.Buffers.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.Memory.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.Reactive.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.Text.Json.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.Threading.Channels.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.ValueTuple.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Websocket.Client.dll
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\itextsharp.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\MaterialDesignColors.pdb
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\MimeMapping.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Supabase.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Supabase.Core.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Supabase.Functions.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Supabase.Gotrue.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Supabase.Postgrest.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Supabase.Realtime.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Supabase.Storage.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.Buffers.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.Memory.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.Reactive.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.Text.Json.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.Threading.Channels.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\System.ValueTuple.xml
+C:\Users\IIDom\Desktop\MegaSklad\bin\Debug\Websocket.Client.xml
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\App.baml
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\AdminMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\BuhgalterMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\KladovshikMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\MainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\ManagerMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\MegaSklad.g.resources
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\MegaSklad.Properties.Resources.resources
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\MegaSklad.csproj.GenerateResource.cache
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\MegaSklad.csproj.CoreCompileInputs.cache
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\MegaSklad.csproj.Up2Date
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\MegaSklad.exe
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\MegaSklad.pdb
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\AddTovarZakazPostavshikyWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\AddTovarZakazPostavshikyWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\AddTovarZakazClientWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\AddTovarZakazClientWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\PrihodnayaNakladnayaDetailsWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\RashodnayaNakladnayaDetailsWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\PrihodnayaNakladnayaDetailsWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad\obj\Debug\RashodnayaNakladnayaDetailsWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\MegaSklad.csproj.AssemblyReference.cache
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\AddTovarToNakladnayaWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\AddTovarToRashodnayaNakladnayaWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\AddTovarZakazClientWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\AddTovarZakazPostavshikyWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\EditClientWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\EditPostavshikWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\EditSkladWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\EditTovarWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\LoginWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\PrihodnayaNakladnayaDetailsWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\RashodnayaNakladnayaDetailsWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\RegisterWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\AddTovarToNakladnayaWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\AddTovarToRashodnayaNakladnayaWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\AddTovarZakazClientWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\AddTovarZakazPostavshikyWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\AdminMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\BuhgalterMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\EditClientWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\EditPostavshikWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\EditSkladWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\EditTovarWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\KladovshikMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\LoginWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\MainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\ManagerMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\PrihodnayaNakladnayaDetailsWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\RashodnayaNakladnayaDetailsWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\RegisterWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\App.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\MegaSklad_MarkupCompile.cache
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\MegaSklad_MarkupCompile.lref
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\MegaSklad.exe
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\MegaSklad.pdb
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\MegaSklad.exe.config
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\MegaSklad.exe
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\MegaSklad.pdb
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\itextsharp.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\MaterialDesignColors.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\MimeMapping.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\QRCoder.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Supabase.Core.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Supabase.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Supabase.Functions.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Supabase.Gotrue.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Supabase.Postgrest.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Supabase.Realtime.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Supabase.Storage.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.Buffers.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.Memory.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.Reactive.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.Text.Json.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.Threading.Channels.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.ValueTuple.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Websocket.Client.dll
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\itextsharp.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\MaterialDesignColors.pdb
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\MimeMapping.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Supabase.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Supabase.Core.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Supabase.Functions.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Supabase.Gotrue.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Supabase.Postgrest.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Supabase.Realtime.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Supabase.Storage.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.Buffers.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.Memory.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.Reactive.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.Text.Json.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.Threading.Channels.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\System.ValueTuple.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\bin\Debug\Websocket.Client.xml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\App.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\AdminMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\BuhgalterMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\KladovshikMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\MainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\ManagerMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\MegaSklad.g.resources
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\MegaSklad.Properties.Resources.resources
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\MegaSklad.csproj.GenerateResource.cache
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\MegaSklad.csproj.CoreCompileInputs.cache
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\MegaSklad.csproj.Up2Date
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\ZakazDetailsWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\ZakazDetailsWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\EditZakazStatusWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 5.1 159325 1 37\obj\Debug\EditZakazStatusWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\MegaSklad.exe.config
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\MegaSklad.exe
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\MegaSklad.pdb
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\itextsharp.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\MaterialDesignColors.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\MimeMapping.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\QRCoder.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Supabase.Core.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Supabase.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Supabase.Functions.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Supabase.Gotrue.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Supabase.Postgrest.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Supabase.Realtime.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Supabase.Storage.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.Buffers.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.Memory.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.Reactive.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.Text.Json.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.Threading.Channels.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.ValueTuple.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Websocket.Client.dll
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\itextsharp.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\MaterialDesignColors.pdb
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\MimeMapping.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Supabase.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Supabase.Core.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Supabase.Functions.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Supabase.Gotrue.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Supabase.Postgrest.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Supabase.Realtime.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Supabase.Storage.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.Buffers.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.Memory.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.Reactive.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.Text.Json.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.Threading.Channels.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\System.ValueTuple.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\bin\Debug\Websocket.Client.xml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\MegaSklad.csproj.AssemblyReference.cache
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\AddTovarToNakladnayaWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\AddTovarToRashodnayaNakladnayaWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\AddTovarZakazClientWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\AddTovarZakazPostavshikyWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\EditClientWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\EditPostavshikWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\EditSkladWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\EditTovarWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\EditZakazStatusWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\LoginWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\PrihodnayaNakladnayaDetailsWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\RashodnayaNakladnayaDetailsWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\RegisterWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\ZakazDetailsWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\AddTovarToNakladnayaWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\AddTovarToRashodnayaNakladnayaWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\AddTovarZakazClientWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\AddTovarZakazPostavshikyWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\AdminMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\BuhgalterMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\EditClientWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\EditPostavshikWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\EditSkladWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\EditTovarWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\EditZakazStatusWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\KladovshikMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\LoginWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\MainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\ManagerMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\PrihodnayaNakladnayaDetailsWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\RashodnayaNakladnayaDetailsWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\RegisterWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\ZakazDetailsWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\App.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\MegaSklad_MarkupCompile.cache
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\MegaSklad_MarkupCompile.lref
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\App.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\AdminMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\BuhgalterMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\KladovshikMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\MainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\ManagerMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\MegaSklad.g.resources
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\MegaSklad.Properties.Resources.resources
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\MegaSklad.csproj.GenerateResource.cache
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\MegaSklad.csproj.CoreCompileInputs.cache
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\MegaSklad.csproj.Up2Date
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\MegaSklad.exe
+C:\Users\IIDom\Desktop\MegaSklad 6 1503253 39\obj\Debug\MegaSklad.pdb
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\MegaSklad.csproj.AssemblyReference.cache
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\AddTovarToNakladnayaWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\AddTovarToRashodnayaNakladnayaWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\AddTovarZakazClientWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\AddTovarZakazPostavshikyWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\EditClientWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\EditPostavshikWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\EditProfileWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\EditSkladWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\EditTovarWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\EditZakazStatusWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\LoginWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\PrihodnayaNakladnayaDetailsWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\RashodnayaNakladnayaDetailsWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\RegisterWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\ZakazDetailsWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\AddTovarToNakladnayaWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\AddTovarToRashodnayaNakladnayaWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\AddTovarZakazClientWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\AddTovarZakazPostavshikyWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\AdminMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\BuhgalterMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\EditClientWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\EditPostavshikWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\EditProfileWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\EditSkladWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\EditTovarWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\EditZakazStatusWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\KladovshikMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\LoginWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\MainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\ManagerMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\PrihodnayaNakladnayaDetailsWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\RashodnayaNakladnayaDetailsWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\RegisterWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\ZakazDetailsWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\App.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\MegaSklad_MarkupCompile.cache
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\MegaSklad_MarkupCompile.lref
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\App.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\AdminMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\BuhgalterMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\MainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\ManagerMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\MegaSklad.exe
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\MegaSklad.pdb
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\MegaSklad.exe.config
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\MegaSklad.exe
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\MegaSklad.pdb
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\itextsharp.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\MaterialDesignColors.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\MimeMapping.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\QRCoder.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Supabase.Core.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Supabase.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Supabase.Functions.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Supabase.Gotrue.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Supabase.Postgrest.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Supabase.Realtime.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Supabase.Storage.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.Buffers.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.Memory.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.Reactive.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.Text.Json.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.Threading.Channels.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.ValueTuple.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Websocket.Client.dll
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\itextsharp.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\MaterialDesignColors.pdb
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\MimeMapping.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Supabase.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Supabase.Core.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Supabase.Functions.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Supabase.Gotrue.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Supabase.Postgrest.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Supabase.Realtime.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Supabase.Storage.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.Buffers.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.Memory.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.Reactive.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.Text.Json.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.Threading.Channels.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\System.ValueTuple.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\bin\Debug\Websocket.Client.xml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\KladovshikMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\MegaSklad.g.resources
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\MegaSklad.Properties.Resources.resources
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\MegaSklad.csproj.GenerateResource.cache
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\MegaSklad.csproj.CoreCompileInputs.cache
+C:\Users\IIDom\Desktop\MegaSklad Итог\obj\Debug\MegaSklad.csproj.Up2Date
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\MegaSklad.exe.config
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\MegaSklad.exe
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\MegaSklad.pdb
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\itextsharp.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\MaterialDesignColors.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\MimeMapping.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\QRCoder.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Supabase.Core.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Supabase.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Supabase.Functions.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Supabase.Gotrue.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Supabase.Postgrest.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Supabase.Realtime.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Supabase.Storage.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.Buffers.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.Memory.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.Reactive.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.Text.Json.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.Threading.Channels.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.ValueTuple.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Websocket.Client.dll
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\itextsharp.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\MaterialDesignColors.pdb
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\MimeMapping.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Supabase.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Supabase.Core.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Supabase.Functions.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Supabase.Gotrue.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Supabase.Postgrest.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Supabase.Realtime.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Supabase.Storage.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.Buffers.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.Memory.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.Reactive.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.Text.Json.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.Threading.Channels.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\System.ValueTuple.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\bin\Debug\Websocket.Client.xml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\MegaSklad.csproj.AssemblyReference.cache
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\AddTovarToNakladnayaWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\AddTovarToRashodnayaNakladnayaWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\AddTovarZakazClientWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\AddTovarZakazPostavshikyWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\EditClientWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\EditPostavshikWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\EditProfileWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\EditSkladWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\EditTovarWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\EditZakazStatusWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\LoginWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\PrihodnayaNakladnayaDetailsWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\RashodnayaNakladnayaDetailsWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\RegisterWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\ZakazDetailsWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\AddTovarToNakladnayaWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\AddTovarToRashodnayaNakladnayaWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\AddTovarZakazClientWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\AddTovarZakazPostavshikyWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\AdminMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\BuhgalterMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\EditClientWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\EditPostavshikWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\EditProfileWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\EditSkladWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\EditTovarWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\EditZakazStatusWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\KladovshikMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\LoginWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\MainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\ManagerMainWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\PrihodnayaNakladnayaDetailsWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\RashodnayaNakladnayaDetailsWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\RegisterWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\ZakazDetailsWindow.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\App.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\MegaSklad_MarkupCompile.cache
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\MegaSklad_MarkupCompile.lref
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\App.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\AdminMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\BuhgalterMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\KladovshikMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\MainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\ManagerMainWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\MegaSklad.g.resources
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\MegaSklad.Properties.Resources.resources
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\MegaSklad.csproj.GenerateResource.cache
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\MegaSklad.csproj.CoreCompileInputs.cache
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\MegaSklad.csproj.Up2Date
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\MegaSklad.exe
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\MegaSklad.pdb
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\EditUserWindow.baml
+C:\Users\IIDom\Desktop\MegaSklad ИТОГОВЫЙ\obj\Debug\EditUserWindow.g.cs

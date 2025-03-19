@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MSM.ProfilePage"
+             Title="Профиль"
+             BackgroundColor="#F5F5F5">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="20" Spacing="15">
+                <Label Text="Информация о пользователе"
+                       FontSize="24"
+                       FontAttributes="Bold"
+                       TextColor="#333333"
+                       HorizontalOptions="Center"
+                       Margin="0,0,0,20" />
+
+                <Frame HasShadow="True"
+                       CornerRadius="15"
+                       Padding="15"
+                       BackgroundColor="White">
+                    <StackLayout Spacing="10">
+                        <Label Text="Имя:" FontSize="18" TextColor="#555555" />
+                        <Label x:Name="NameLabel" FontSize="16" TextColor="#777777" />
+
+                        <BoxView HeightRequest="1" Color="#E0E0E0" Margin="0,5"/>
+
+                        <Label Text="Email:" FontSize="18" TextColor="#555555" />
+                        <Label x:Name="EmailLabel" FontSize="16" TextColor="#777777" />
+
+                        <BoxView HeightRequest="1" Color="#E0E0E0" Margin="0,5" />
+
+                        <Label Text="Роль:" FontSize="18" TextColor="#555555" />
+                        <Label x:Name="RoleLabel" FontSize="16" TextColor="#777777" />
+
+                        <!-- Added ExpiryDateLabel -->
+                    </StackLayout>
+                </Frame>
+
+                <StackLayout x:Name="PassSection" IsVisible="True" Spacing="10">
+                    <Label Text="Пропуск"
+                           FontSize="24"
+                           FontAttributes="Bold"
+                           TextColor="#333333"
+                           HorizontalOptions="Center"
+                           Margin="0,20,0,10" />
+
+                    <Frame HasShadow="True"
+                           BorderColor="#BBDEFB"
+                           Padding="20"
+                           CornerRadius="15"
+                           BackgroundColor="White">
+                        <StackLayout Spacing="5">
+                            <Image Source="icon.png"
+                                   HorizontalOptions="Center"
+                                   VerticalOptions="Center"
+                                   HeightRequest="50"
+                                   WidthRequest="50" />
+
+                            <Label Text="MegaSklad"
+                                   FontSize="20"
+                                   FontAttributes="Bold"
+                                   HorizontalOptions="Center"
+                                   TextColor="#3F51B5" />
+
+                            <Label x:Name="FullNameLabel"
+                                   FontSize="18"
+                                   FontAttributes="Bold"
+                                   HorizontalOptions="Center"
+                                   TextColor="#333333" />
+
+                            <Label x:Name="RoleOnPassLabel"
+                                   FontSize="16"
+                                   HorizontalOptions="Center"
+                                   TextColor="#3F51B5" />
+
+                            <Image Source="propysk.png"
+                                   HorizontalOptions="Center"
+                                   VerticalOptions="Center"
+                                   HeightRequest="120"
+                                   WidthRequest="120" />
+
+                        </StackLayout>
+                    </Frame>
+                </StackLayout>
+
+                <Button Text="Выйти"
+                        Clicked="OnLogoutClicked"
+                        HorizontalOptions="FillAndExpand"
+                        BackgroundColor="#D32F2F"
+                        TextColor="White"
+                        CornerRadius="10"
+                        FontSize="18"
+                        FontAttributes="Bold"
+                        Padding="12"
+                        Margin="0,20,0,0" />
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
